@@ -82,7 +82,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 16014841805,
+  "duration": 18055452173,
   "status": "passed"
 });
 formatter.scenario({
@@ -141,7 +141,7 @@ formatter.match({
   "location": "Buyproduct.navigate_to_website_and_click_on_sign_in_button()"
 });
 formatter.result({
-  "duration": 2150004421,
+  "duration": 3076753597,
   "status": "passed"
 });
 formatter.match({
@@ -158,21 +158,21 @@ formatter.match({
   "location": "Buyproduct.log_in_with_valid_credencials_and_and_click_on_sign_in(String,String)"
 });
 formatter.result({
-  "duration": 3168028228,
+  "duration": 2916759540,
   "status": "passed"
 });
 formatter.match({
   "location": "Buyproduct.move_the_cursor_over_women_menu_and_clicks_on_t_shrits_option()"
 });
 formatter.result({
-  "duration": 4238786912,
+  "duration": 3722027680,
   "status": "passed"
 });
 formatter.match({
   "location": "Buyproduct.more_button_will_be_displayed_then_click_on_More_button()"
 });
 formatter.result({
-  "duration": 3755508617,
+  "duration": 2657104552,
   "status": "passed"
 });
 formatter.match({
@@ -185,32 +185,32 @@ formatter.match({
   "location": "Buyproduct.increase_quantity_to_two_and_select_size_and_color_and_click_on_Add_to_cart(String)"
 });
 formatter.result({
-  "duration": 559215572,
+  "duration": 577510800,
   "status": "passed"
 });
 formatter.match({
   "location": "Buyproduct.click_Proceed_to_checkout_button()"
 });
 formatter.result({
-  "duration": 3487717676,
+  "duration": 2918052903,
   "status": "passed"
 });
 formatter.match({
   "location": "Buyproduct.complete_the_buy_order_process_till_payment()"
 });
 formatter.result({
-  "duration": 9410171921,
+  "duration": 9759739292,
   "status": "passed"
 });
 formatter.match({
   "location": "Buyproduct.make_sure_that_Product_is_ordered()"
 });
 formatter.result({
-  "duration": 153188,
+  "duration": 181976,
   "status": "passed"
 });
 formatter.after({
-  "duration": 788550035,
+  "duration": 1491042072,
   "status": "passed"
 });
 });
